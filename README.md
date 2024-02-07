@@ -1,6 +1,6 @@
 # tutorial
 
-A new Flutter project.
+Currently only works on Flutter < 3.7.7
 
 ## Getting Started
 

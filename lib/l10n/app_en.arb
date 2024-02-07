@@ -1,0 +1,34 @@
+{
+    "animals": "Animals",
+    "@animals": {
+      "description": "for the animals Screen Route Button"
+    },
+    "animals_title": "Here is an Animal",
+    "@animals": {
+      "description": "for the animals Screen Title"
+    },
+    "error": "Error",
+    "@error": {
+      "description": "used in the Error screen"
+    },
+    "errorpage_test": "Error Screen",
+    "@errorpage_test": {
+      "description": "used in the Button routing to Error Screen"
+    },
+    "meme_title": "Here is your Meme",
+    "@meme_title": {
+      "description": "used as the Title of the Meme Screen"
+    },
+    "meme_button": "new Meme",
+    "@meme_button": {
+      "description": "used in the Button of the Meme Screen"
+    },
+    "animal_screen_button": "Animalpictures",
+    "@animal_screen_button": {
+      "description": "used in the Button to the Animal Screen"
+    },
+    "animal_screen_button": "new Animal",
+    "@animal_screen_button": {
+      "description": "used in the Button of the Animal Screen"
+    }
+}
